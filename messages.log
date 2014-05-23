@@ -1,0 +1,6 @@
+10:08:45.257 [main] INFO  csomag.Program - A cégek beolvasása sikeresen megtörtént!
+10:08:45.445 [main] INFO  csomag.Program - A rendszer LookAndFeel-jének beállítása sikeresen megtörtént!
+10:08:45.507 [AWT-EventQueue-0] INFO  csomag.Program - A cégek beolvasása sikeresen megtörtént!
+10:08:52.075 [AWT-EventQueue-0] INFO  csomag.Program - A Google Maps-en való megjelenítés sikeresen megtörtént!
+10:09:16.185 [AWT-EventQueue-0] INFO  csomag.Program - Sikeres törlés. Törölt cégek száma: 2
+10:09:16.407 [AWT-EventQueue-0] INFO  csomag.Program - Az új adatok fájlba való kiírása sikeresen megtörtént!
